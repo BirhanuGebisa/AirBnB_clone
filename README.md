@@ -23,5 +23,6 @@ Documented commands (type help <topic>):
 EOF  help  quit
 
 (hbnb) 
-(hbnb) 
-(hbnb) quit
+
+#Birhanu Gebisa<birhanugebisa@gmail.com>
+#Abdihakim Abdirahman <abdihakimabdirahman21@gmail.com>
