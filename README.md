@@ -21,7 +21,8 @@ $ ./console.py
 Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
+# This file lists all individuals having contributed content to the repository.
+# For how it is generated, see `hack/generate-authors.sh`.
 
-  ##AUTHORS
 #Birhanu Gebisa     ---Email: birhanugebisa@gmail.com 
 #Abdihakim Abdirahman--Email: abdihakimabdirahman21@gmail.com 
