@@ -22,7 +22,6 @@ Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
 
-(hbnb) 
-
-#Birhanu Gebisa<birhanugebisa@gmail.com>
-#Abdihakim Abdirahman <abdihakimabdirahman21@gmail.com>
+  ##AUTHORS
+#Birhanu Gebisa <a> birhanugebisa@gmail.com </a>
+#Abdihakim Abdirahman <a> abdihakimabdirahman21@gmail.com </a>
