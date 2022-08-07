@@ -23,5 +23,5 @@ Documented commands (type help <topic>):
 EOF  help  quit
 
   ##AUTHORS
-#Birhanu Gebisa <a> birhanugebisa@gmail.com </a>
-#Abdihakim Abdirahman <a> abdihakimabdirahman21@gmail.com </a>
+#Birhanu Gebisa     ---Email: birhanugebisa@gmail.com 
+#Abdihakim Abdirahman--Email: abdihakimabdirahman21@gmail.com 
